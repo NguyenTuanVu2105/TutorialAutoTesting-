@@ -18,8 +18,9 @@ Tạo nhánh làm việc cho cá nhân, thêm chức năng mới mà vẫn giữ
 Thêm code trên máy cá nhân(local), thay đổi phiên bản code, phục vụ cho đồng bộ giữa local và github
 ### 7.	Git Pull / Git push 
 Đồng bộ code giữa local và github
-### 8. Git merge/ Pull Request
+### 8.	Git stash
+### 9. Git merge/ Pull Request
 Gộp các nhánh lại với nhau
-### 9.	Tham khảo
+### 10.	Tham khảo
 https://viblo.asia/p/git-rat-la-co-ban-Ljy5VXXkZra
 Advance: https://learngitbranching.js.org/
