@@ -30,7 +30,8 @@
 + Swap 
 ### 11. OOP 
 + Extend
-+ Interface 
++ Interface
++ Abstract Class
 + static 
 + Hàm tên giống nhau (overloading)
 ### 12. File 
